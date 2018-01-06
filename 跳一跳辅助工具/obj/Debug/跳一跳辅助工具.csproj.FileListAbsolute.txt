@@ -1,0 +1,9 @@
+c:\users\47889\documents\visual studio 2015\Projects\跳一跳辅助工具\跳一跳辅助工具\bin\Debug\跳一跳辅助工具.exe.config
+c:\users\47889\documents\visual studio 2015\Projects\跳一跳辅助工具\跳一跳辅助工具\obj\Debug\跳一跳辅助工具.csprojResolveAssemblyReference.cache
+c:\users\47889\documents\visual studio 2015\Projects\跳一跳辅助工具\跳一跳辅助工具\obj\Debug\跳一跳辅助工具.Form1.resources
+c:\users\47889\documents\visual studio 2015\Projects\跳一跳辅助工具\跳一跳辅助工具\obj\Debug\跳一跳辅助工具.Properties.Resources.resources
+c:\users\47889\documents\visual studio 2015\Projects\跳一跳辅助工具\跳一跳辅助工具\obj\Debug\跳一跳辅助工具.csproj.GenerateResource.Cache
+c:\users\47889\documents\visual studio 2015\Projects\跳一跳辅助工具\跳一跳辅助工具\bin\Debug\跳一跳辅助工具.exe
+c:\users\47889\documents\visual studio 2015\Projects\跳一跳辅助工具\跳一跳辅助工具\bin\Debug\跳一跳辅助工具.pdb
+c:\users\47889\documents\visual studio 2015\Projects\跳一跳辅助工具\跳一跳辅助工具\obj\Debug\跳一跳辅助工具.exe
+c:\users\47889\documents\visual studio 2015\Projects\跳一跳辅助工具\跳一跳辅助工具\obj\Debug\跳一跳辅助工具.pdb
